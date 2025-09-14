@@ -7,7 +7,7 @@ The paper proposes a **significance test** for determining if the parameters of 
 ## Data
 
 - `ipcc.global.ts_Amon_CMIP6_historical.consolidate.RData`:  
-  Monthly 2m-temperature from **CMIP6 historical runs**, projected onto the 58 Atlas regions defined in [Iturbide et al., 2020].
+  Monthly 2m-temperature from **CMIP6 historical runs**, projected onto the 58 Atlas regions defined in [Iturbide et al., 2020].  Too Big to Include on Github.
 
 - `ipcc.global.2t_Amon_CMIP6_ERA5.consolidate2.RData`:  
   Monthly 2m-temperature from **ERA5 reanalysis** ([Hersbach et al., 2020]), also projected onto the 58 Atlas regions.
